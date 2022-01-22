@@ -29,7 +29,7 @@ while not done:
             done=False 
 
 if done:
-    print("YOU WON THE GAME THE WORD WAS",word)
+    print("YOU WON  THE GAME THE WORD WAS",word)
     print("------------------")
 else:
     print("Better Luck Next Time The word was",word)
